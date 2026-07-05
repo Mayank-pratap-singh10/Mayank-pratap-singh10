@@ -6,10 +6,11 @@ Hello there! I'm Mayank Pratap Singh, a passionate developer with a love for cle
 
 ### 🚀 What I Do.
 
+- 🤖 Artificial Intelligence Engineer
 - 💻 Full-stack development
 - 🌐 Web applications
 - 📱 Mobile app development
-- 🤖 Artificial Intelligence and Machine Learning enthusiast
+
 
 
 
